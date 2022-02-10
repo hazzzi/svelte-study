@@ -1,4 +1,4 @@
-# chungking-express
+# svelte-study
 
 - 네온사인
 - 어항
